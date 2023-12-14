@@ -1,0 +1,31 @@
+h2{
+  color: rgb(99, 199, 99);
+  text-align: center;
+}
+
+.click{
+  margin: 4%;
+}
+.again{
+  line-height: 30px;
+  border: 2px solid rgb(7, 156, 118);
+  color:rgb(50, 106, 63) ;
+  margin: 5%;
+}
+.rest{
+  line-height: 35px;
+  border: 2px solid rgb(63, 215, 63);
+  color: rgb(38, 190, 38);
+  margin: 4%;
+}
+h1{
+  color: rgb(129, 19, 109);
+}
+.know{
+  display: flex;
+  justify-content: space-between;
+  padding: 4%;
+}
+.writ{
+  text-align: left;
+}

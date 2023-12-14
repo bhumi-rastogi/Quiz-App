@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+  margin: 25%;
+  background-color: rgb(199, 124, 124);
+}
+
+h1{
+  font-size: 35px;
+}
+
+.game{
+  line-height: 60px;
+  width: 200px;
+  background-color: rgb(129, 162, 129);
+  color:rgb(255, 255, 255);
+  font-size: 35px;
+  border-radius: 36px;
+  border: 4px solid black;
+  /* box-shadow: 4px 8px black; */
+}
+.game:hover{
+  box-shadow: 4px 8px black;
+}
